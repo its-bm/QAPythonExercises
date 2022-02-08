@@ -38,4 +38,3 @@ print(myFruit)
 
 # Join list elements (add ',' or '&' for example)
 print(', '.join(myFruit))
-
