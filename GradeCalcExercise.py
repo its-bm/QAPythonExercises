@@ -41,7 +41,7 @@ while True:
             raise ValueError
         break
     except ValueError:
-        print("The number must be in the range of 1-25.")
+        print('The number must be in the range of 1-25.')
 # Check integer input is within range
 
 while True:
@@ -53,7 +53,7 @@ while True:
             raise ValueError
         break
     except ValueError:
-        print("The number must be in the range of 1-50.")
+        print('The number must be in the range of 1-50.')
 # Check integer input is within range     
 while True:
     try:
@@ -64,7 +64,7 @@ while True:
             raise ValueError
         break
     except ValueError:
-        print("The number must be in the range of 1-100.")
+        print('The number must be in the range of 1-100.')
 blame = 'its-bm'
 # Empty
 total, average, percentage, grade = None, None, None, None
